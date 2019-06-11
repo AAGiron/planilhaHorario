@@ -1,4 +1,4 @@
-# planilhaHorário
+# Planilha de Horários
 
 A Planilha (mais ou menos) magnífica que você verá hoje - Planilha de Horários
 
@@ -17,6 +17,5 @@ A planilha contem mais duas abas: Planilhas por professor ("PROF_COENC") e por s
 É necessário definir um nome único para a sala e para o professor. 
 
 # Autor
-Alexandre Augusto Giron - coenc.td.utfpr.edu.br/~giron
+Alexandre Augusto Giron - [coenc.td.utfpr.edu.br/~giron](coenc.td.utfpr.edu.br/~giron)
 
-![COENC](https://raw.githubusercontent.com/AAGiron/planilhaHorario/master/img/LogoCursoAlfa.png)
