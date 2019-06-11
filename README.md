@@ -19,4 +19,4 @@ A planilha contem mais duas abas: Planilhas por professor ("PROF_COENC") e por s
 # Autor
 Alexandre Augusto Giron - coenc.td.utfpr.edu.br/~giron
 
-![COENC](aagiron.github.com/planilhaHorario/img/logoUTF.png)
+![COENC](https://raw.githubusercontent.com/AAGiron/planilhaHorario/master/img/LogoCursoAlfa.png)
