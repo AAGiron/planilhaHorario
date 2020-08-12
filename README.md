@@ -16,6 +16,5 @@ A planilha possui mais duas abas: Planilhas por professor ("PROF") e por sala ("
 
 É necessário definir um nome único para a sala e para o professor. That's it! 
 
-# Autor
-Alexandre Augusto Giron - [coenc.td.utfpr.edu.br/~giron](http://coenc.td.utfpr.edu.br/~giron)
+
 
