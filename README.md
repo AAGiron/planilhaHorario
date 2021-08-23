@@ -2,6 +2,9 @@
 
 Planilha de Horários de Curso: verificação de conflitos de horários (Sala, Professor, Semestre)
 
+![](planilha-test.gif)
+
+
 # Instruções
 
 1. Abrir a planilha no Libreoffice Calc (Não testado no excel)
